@@ -32,7 +32,7 @@ Create a funnel chart that represents that total number of pizzas sold for each 
 Create a bar chart highlighting the top 5 best selling pizzas based on Revenue, Total Quantity, Total Orders. This chart will help us to identify the most popular pizza options.
 
 **7. Bottom 5 Worst Selling Pizzas by Revenue, Total Qunatity and Total Orders:**
-Create a bar chart highlighting the bottom 5 worst selling pizzas based on Revenue, Total Quantity, Total Orders. This chart will help us to identify underperforming or least popular pizza options.
+Create a bar chart highlighting the bottom 5 worst selling pizzas based on Revenue, Total Quantity, Total Orders. This chart will help us to identify underperforming or least popular pizza options. 
 
 
 
